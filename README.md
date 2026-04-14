@@ -1,5 +1,6 @@
 # EcoFoodFuture
 A web platform that connects food donors with NGOs to reduce waste and fight hunger. Built with Java, JSP, Oracle SQL, and Tomcat. Supports real-time donation tracking and promotes SDG Goal 2: Zero Hunger.
+
 Connecting Donors to Organisations :
 
 Eco Food Future is a social impact web application built to bridge the gap between surplus food donors and organizations (NGOs) working toward Zero Hunger (SDG Goal 2). The platform encourages individuals, restaurants, and businesses to donate food, groceries, or money, which are then received by registered organizations in real time.
